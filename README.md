@@ -96,6 +96,6 @@ kubectl -n argocd get secret argocd-initial-admin-secret -o jsonpath="{.data.pas
 
 ***DIRECTORY***
 
-- **DIRECTORY RECURSE**: CHECKED
+- **DIRECTORY RECURSE**: CHECKED 
 
 ---
